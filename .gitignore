@@ -1,4 +1,4 @@
 .gradle
 .idea
 .vscode
-app/build
+app/build/
